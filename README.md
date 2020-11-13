@@ -1,5 +1,7 @@
 # Mabida---Ikea-Crawling
 DataScience Management Exam
+
+
 Analysis of the prices of the **** products and their satisfaction. To do this you have to scrap the **** site with the scrapy crawler or by other methods, collect the data related to prices, product rating and description, and produce a descriptive analysis reporting
 
 1) price distribution of individual products
